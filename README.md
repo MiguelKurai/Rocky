@@ -20,3 +20,4 @@
 Trabajo realizado por José Miguel González Alba
 
 ## LICENCIA
+![image](Licencia.png)
