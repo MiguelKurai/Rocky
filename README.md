@@ -11,7 +11,7 @@
 ## [REPOSITORIOS ROCKY LINUX](/contenidos/repositorios.md)
 - ¿Dónde se encuentran los repositorios?
 
-## OPERACIONES BÁSICAS
+## [OPERACIONES BÁSICAS](https://youtu.be/xXpXSOLL1R8)
 
 ## REFERENCIAS
 - [Rocky Linux](https://rockylinux.org)
