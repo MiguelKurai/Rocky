@@ -14,8 +14,8 @@
 ## OPERACIONES BÁSICAS
 
 ## REFERENCIAS
-[Rocky Linux](https://rockylinux.org)
-[Paquetes RPM](https://es.wikipedia.org/wiki/RPM_Package_Manager)
+- [Rocky Linux](https://rockylinux.org)
+- [Paquetes RPM](https://es.wikipedia.org/wiki/RPM_Package_Manager)
 ## AUTOR
 Trabajo realizado por José Miguel González Alba
 
