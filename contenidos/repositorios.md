@@ -1,0 +1,1 @@
+Los repositorios para Rocky Linux se encuentran en este [enlace](https://dl.rockylinux.org/pub/rocky/RPM-GPG-KEY-rockyofficial). Se deben colocar en el directorio '/web/path/RPM-GPG-KEY-rockyofficial'
